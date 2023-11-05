@@ -1,0 +1,13 @@
+{
+  "name": "clash-to-sing-box",
+  "version": "1.0.0",
+  "private": true,
+  "description": "transform clash config into sing-box profile",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Moroshima Itsuki",
+  "license": "GPLv3"
+}
